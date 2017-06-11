@@ -1,63 +1,63 @@
 [ {
   "op" : "replace",
   "path" : "/converse/default/human/0",
-  "value" : "Hello there, fellow earthling! Wait, too soon?"
+  "value" : "嘿!你是我們的新夥伴!嗯?會太快嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/1",
-  "value" : "You aren't ex-USCM, are you? No? Phew."
+  "value" : "你不是之前USCM的人對吧?呼.."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/2",
-  "value" : "Working on a ship can be a tough career, but it did mean I wasn't on Earth when... It happened."
+  "value" : "在船上工作可不是件簡單事,雖然在地球上也不是..直到....那件事發生了..."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/3",
-  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+  "value" : "嘿!你是遊客嗎?我們這裡很少會有遊客呢!慢慢看看吧!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/4",
-  "value" : "Do you have your own ship? That's pretty cool!"
+  "value" : "你有一艘屬於你自己的船!?那真是太酷了!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/5",
-  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+  "value" : "哇!痾..我從來沒有想過會在這裡看到新面孔"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/6",
-  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+  "value" : "你一路從漆黑的宇宙中來到這就只是為了見我們?真是太棒了!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/7",
-  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+  "value" : "歡迎你在這休息!不過別弄亂了，我才剛剛整理完"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/0",
-  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+  "value" : "嘿!你是遊客嗎?我們這裡很少會有遊客呢!慢慢看看吧!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/1",
-  "value" : "Do you come in peace?"
+  "value" : "你會帶來和平嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/2",
-  "value" : "Do you have your own ship? That's pretty cool!"
+  "value" : "你有屬於自己的船嗎?那真是太酷了!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/3",
-  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+  "value" : "哇!痾..我從來沒有想過會在這裡看到新面孔"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/4",
-  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+  "value" : "你一路從漆黑的宇宙中來到這就只是為了見我們?真是太棒了!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/5",
-  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+  "value" : "歡迎你在這休息!不過別弄亂了，我才剛剛整理完"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/0",
-  "value" : "Greetings, fellow Apex! I hope you have also escaped the gaze of the Miniknog."
+  "value" : "你好!猿族的同伴! I hope you have also escaped the gaze of the Miniknog."
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/1",
